@@ -9,7 +9,7 @@
 
 **`Aspiring Full Stack Developer`**
 
-My name is Kevin William, I'm 24 years old and I'm from Fortaleza, Ceará, Brazil. I am currently pursuing a degree in Computer Science at Unifametro, with an expected graduation date in August or September 2027. I am passionate about programming and all its related fields. I love learning new tools and technologies, always striving to enhance my knowledge.
+My name is Kévin William, I'm 24 years old and I'm from Fortaleza, Ceará, Brazil. I am currently pursuing a degree in Computer Science at Unifametro, with an expected graduation date in August or September 2027. I am passionate about programming and all its related fields. I love learning new tools and technologies, always striving to enhance my knowledge.
 
 🌱 Currently learning:
 
